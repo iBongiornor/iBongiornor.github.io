@@ -1,5 +1,6 @@
 ---
-title: 保重
+layout: secret
+title: Adieu tristesse
 date: 2017-04-18 20:45:28
 tags:
 ---
