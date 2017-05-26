@@ -61,6 +61,7 @@ pagination_dir: page
 
 plugin:
 - hexo-generator-feed
+- hexo-math
 #Feed Atom
 feed:
 type: atom

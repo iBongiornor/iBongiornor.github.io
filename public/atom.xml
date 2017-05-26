@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bongiornor.com/"/>
-  <updated>2017-05-20T15:20:35.000Z</updated>
+  <updated>2017-05-26T14:20:49.000Z</updated>
   <id>http://bongiornor.com/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>inventory and replenish</title>
+    <link href="http://bongiornor.com/2017/05/26/inventory-and-replenish/"/>
+    <id>http://bongiornor.com/2017/05/26/inventory-and-replenish/</id>
+    <published>2017-05-26T13:10:03.000Z</published>
+    <updated>2017-05-26T14:20:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>现代供应链的发展使得信息化程度越来越高，使得企业越来越容易使用更多计算机进行辅助决策。库存管理和补仓策略通常是所有中小企业共同面对的问题，在美国即使是小型的杂货铺也会使用商业资讯公司提供的数学模型进行进货上架的管理，对于贵司这种面向海外市场的贸易公司，数据化的库存管理和补仓决策在提升业务和精简成本上应该具有极其重要的意义。本文简略地探讨贵司的业务场景下的补货的策略模型。</p><p>首先设，历史日销售额为 \( S(t) \) , 国内补货效率为 \( T_0 \)天,中欧物流时间为\( T_1 \) 天，海关清仓时间为\( T_2 \) 天,仓库库存为\( Q(t) \).<br>一个直观的解是<br>$$ Q(0) \geq \overline {S} \times (T_0+T_1+T_2) $$</p><p>其中 \( \overline {S} = \int_{t-n}^{t}S\left( t\right) dt \) , \( Q(0) )\ 为当前库存，满足条件的临界库存量为安全库存。</p><p>依据这个最基本的公式，可以展开加入更多的变量，使得这个所谓的安全库存更加合理和实用。<br>比如,\( S(t) )\本身就是随机变化的时间序列，在加入销售预期和运营绩效刺激的影响下，又可以加入增长率的权重变量的考虑，加入季节变化因素，一方面如销售量的变化，另一面如运输时间的变化，可以加入Winters Method—Additive等模型的计算，将时势和乘法季节因素相结合，考虑序列中有规律节波动。</p><p>数学模型的建立，当然不只是简单的计算所谓安全库存，更加周全的考虑是成本控制。</p><p>$$ f=P \times \int<em>{0}^{T}S\left( t\right) dT - K \times \int</em>{0}^{T}Q\left( t\right) dT - T1 \times C_trans $$</p><p>.</p><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;现代供应链的发展使得信息化程度越来越高，使得企业越来越容易使用更多计算机进行辅助决策。库存管理和补仓策略通常是所有中小企业共同面对的问题，在美国即使是小型的杂货铺也会使用商业资讯公司提供的数学模型进行进货上架的管理，对于贵司这种面向海外市场的贸易公司，数据化的库存管理和补仓
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>lagon-2</title>
