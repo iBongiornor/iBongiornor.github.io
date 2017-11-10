@@ -79,6 +79,11 @@ css_minifier:
   exclude:
     - '*.min.css'
 
+node_sass:
+  debug: false
+  outputStyle: nested
+  precision: 5
+  sourceCommnet: false
 js_minifier:
   enable: true
   mangle: true

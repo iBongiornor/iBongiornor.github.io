@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bongiornor.com/"/>
-  <updated>2017-11-10T00:44:53.450Z</updated>
+  <updated>2017-11-10T01:14:55.392Z</updated>
   <id>http://bongiornor.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello,A</title>
+    <link href="http://bongiornor.com/2017/11/10/Hello-A/"/>
+    <id>http://bongiornor.com/2017/11/10/Hello-A/</id>
+    <published>2017-11-10T01:13:03.000Z</published>
+    <updated>2017-11-10T01:14:55.392Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-A"><a href="#Hello-A" class="headerlink" title="Hello A"></a>Hello A</h1><h2 id="你好，A-君"><a href="#你好，A-君" class="headerlink" title="你好，A 君"></a>你好，A 君</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hello-A&quot;&gt;&lt;a href=&quot;#Hello-A&quot; class=&quot;headerlink&quot; title=&quot;Hello A&quot;&gt;&lt;/a&gt;Hello A&lt;/h1&gt;&lt;h2 id=&quot;你好，A-君&quot;&gt;&lt;a href=&quot;#你好，A-君&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>lagon</title>
