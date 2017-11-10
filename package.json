@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.1"
+    "version": "3.4.0"
   },
   "dependencies": {
-    "hexo": "^3.2.2",
+    "hexo": "^3.4.0",
     "hexo-all-minifier": "^0.1.0",
     "hexo-deployer-git": "^0.2.0",
     "hexo-generator-archive": "^0.1.4",
@@ -22,14 +22,18 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-sass": "^0.2.0",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.0",
+    "node-sass": "^4.6.0",
+    "optipng": "^1.1.0",
+    "optipng-bin": "^4.0.0"
   },
   "devDependencies": {
+    "gifsicle": "^3.0.4",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.0.4",
     "gulp-htmlclean": "^2.7.14",
     "gulp-htmlmin": "^3.0.0",
-    "gulp-imagemin": "^3.2.0",
+    "gulp-imagemin": "^3.4.0",
     "gulp-uglify": "^2.1.2"
   }
 }
