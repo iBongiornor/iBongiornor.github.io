@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bongiornor.com/"/>
-  <updated>2019-05-02T15:05:18.438Z</updated>
+  <updated>2019-05-04T08:55:14.952Z</updated>
   <id>http://bongiornor.com/</id>
   
   <author>
@@ -17,20 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ghost</title>
-    <link href="http://bongiornor.com/2018/08/12/ghost/"/>
-    <id>http://bongiornor.com/2018/08/12/ghost/</id>
-    <published>2018-08-12T08:51:56.000Z</published>
-    <updated>2019-05-02T15:05:18.438Z</updated>
+    <title>巴扎黑</title>
+    <link href="http://bongiornor.com/2019/05/03/ghost/"/>
+    <id>http://bongiornor.com/2019/05/03/ghost/</id>
+    <published>2019-05-03T18:51:56.000Z</published>
+    <updated>2019-05-04T08:55:14.952Z</updated>
     
-    <content type="html"><![CDATA[<style>body{padding:0;margin:0}.content{z-index:999999;position:fixed;top:0;left:0;right:0;bottom:0;color:#000;padding:1rem .8rem 0 1rem;box-sizing:border-box;display:flex;align-items:center;background:linear-gradient(180deg,rgba(0,0,255,1) 0,rgba(255,0,0,1) 100%)}.story{margin-top:-1rem;font-size:.7rem}.next{width:1.6rem;height:1.6rem;background:radial-gradient(ellipse at center,rgba(255,255,255,1) 0,rgba(255,255,255,1) 5%,rgba(0,0,0,1) 75%,rgba(0,0,0,1) 100%);border-radius:50%;float:right;margin-right:0}.face{position:fixed;background:#000;top:0;left:0;right:0;bottom:0;display:none;align-items:center}.face img{object-fit:contain;width:100%}</style><script>!function(a,b){function c(){var b=f.getBoundingClientRect().width;b/i>540&&(b=540*i);var c=b/10;f.style.fontSize=c+"px",k.rem=a.rem=c}var d,e=a.document,f=e.documentElement,g=e.querySelector('meta[name="viewport"]'),h=e.querySelector('meta[name="flexible"]'),i=0,j=0,k=b.flexible||(b.flexible={});if(g){var l=g.getAttribute("content").match(/initial\-scale=([\d\.]+)/);l&&(j=parseFloat(l[1]),i=parseInt(1/j))}else if(h){var m=h.getAttribute("content");if(m){var n=m.match(/initial\-dpr=([\d\.]+)/),o=m.match(/maximum\-dpr=([\d\.]+)/);n&&(i=parseFloat(n[1]),j=parseFloat((1/i).toFixed(2))),o&&(i=parseFloat(o[1]),j=parseFloat((1/i).toFixed(2)))}}if(!i&&!j){var p=(a.navigator.appVersion.match(/android/gi),a.navigator.appVersion.match(/iphone/gi)),q=a.devicePixelRatio;i=p?q>=3&&(!i||i>=3)?3:q>=2&&(!i||i>=2)?2:1:1,j=1/i}if(f.setAttribute("data-dpr",i),!g)if(g=e.createElement("meta"),g.setAttribute("name","viewport"),g.setAttribute("content","initial-scale="+j+", maximum-scale="+j+", minimum-scale="+j+", user-scalable=no"),f.firstElementChild)f.firstElementChild.appendChild(g);else{var r=e.createElement("div");r.appendChild(g),e.write(r.innerHTML)}a.addEventListener("resize",function(){clearTimeout(d),d=setTimeout(c,300)},!1),a.addEventListener("pageshow",function(a){a.persisted&&(clearTimeout(d),d=setTimeout(c,300))},!1),"complete"===e.readyState?e.body.style.fontSize=12*i+"px":e.addEventListener("DOMContentLoaded",function(){e.body.style.fontSize=12*i+"px"},!1),c(),k.dpr=a.dpr=i,k.refreshRem=c,k.rem2px=function(a){var b=parseFloat(a)*this.rem;return"string"==typeof a&&a.match(/rem$/)&&(b+="px"),b},k.px2rem=function(a){var b=parseFloat(a)/this.rem;return"string"==typeof a&&a.match(/px$/)&&(b+="rem"),b}}(window,window.lib||(window.lib={}));var bodyDom = document.querySelector("body")h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/1.jpg" alt=""><audio id="myAudio" src="/js/1.mp3" type="audio/mpeg"></audio></div></div></div>'$("body").append(h)var story = {    0:"大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······",    1:"一个女同学,因不知受了何种创伤,竟然跳楼自杀,BUT这种自杀方式,跟别人不同。因她是头先落地,从此在女一舍走廊xxxx室,经常听到类似以头撞地的声音.....<br />碰..碰......碰.........<br />从走廊遥远的那一头,慢慢的靠近、慢慢的靠近...............<br />突然...声音停止,不再跳动,原来所停的地方是她生前所住的寝室。",    2:"她就以凄凉的声音说:某某某在吗?她的室友都知道,这是她回了................<br />但没有人敢去开门...这样的情形,一直维持了好几个礼拜。但久而久之,这种情况也就愈来愈少................",    3:"过了不久,暑假到了,随着假期的来临,宿舍的学生也都纷纷的回去了。而这种可怕的事情,却未曾停止..................",    4:"一天晚上,女生宿舍的管理员在清理宿舍(由于大家急着回来,没有好好的整理寝室,所以可怜的管理员,只好一间一间的清理了),清理到这间传闻颇多的放间。心也就毛了起来,「但传言归传言,没有根据的事情.....唉!不要去想它。」管理员心中想着。于是便大胆的开了房门,只感觉阴气阵阵....",    5:"注意一看,原来是北边的窗户没有关上,这时心中便安了起来。于是想上前去关上那个窗户,就在他关上的那一刹那,突然听到'碰'一声。他回头一看,门已经自动关上了。",    6:"这时他的心中,那种不祥的预兆又产生了。就在他旁彷不知所措的时候,这个可怕的声音<br>碰....碰....碰...<br>又从遥远的走廊尽头,由远而近,慢慢的、慢慢的靠了过来「这时不管有没有这个传闻,已是无关紧要了。」他心中想着。",    7:"他非常害怕,但又能如何呢?总不能坐以待弊,于是他想暂时躲在2号床位的书桌底下,等她过去了再出来,这样或许能逃过一劫。",    8:"但人生不如意;十之八九,这句话活生生的证明在他身上。她停在门囗,没有在跳动了,以凄凉的囗气缓缓的说:「你..不..用..再..躲..了..我..已..经..看..到..你..了。」管理员心想说:「我躲在桌下,而你也没有开门,怎么可能看得到我呢?」",    9:"于是管理员,走到门前,弯下身子,将脸贴近地面,想看看那一个女鬼。当他从底下门隙一看,居然看到两个血淋淋的眼睛,以哀怨的眼神看着他說............",    10:"你躲也沒有用的......"}!(function (){    // ------ init page ------    var pDom = document.querySelector(".content")    pDom.style.height = window.innerHeight+"px";    var x = document.getElementById("myAudio");     var index = 0;    // ------ init story ------    var storyDom = document.querySelector(".story p")    storyDom.innerText = story[0]    var nextButton = document.querySelector(".next")    function c(){        if(index==9){        nextButton.style.display="none"        setTimeout(function(){            x.play();             var f =document.querySelector(".face")            f.style.display="flex"            storyDom.innerHTML = story[10]            setTimeout(()=>{                f.style.display="none"            },3000)        },2000)        }else{            nextButton.onclick = function(){            index++            storyDom.innerHTML = story[index]            c()            }        }    }    c()})()</script>]]></content>
+    <content type="html"><![CDATA[<p>大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······<br><a id="more"></a></p><style>body{padding:0;margin:0}.content{z-index:999999;position:fixed;top:0;left:0;right:0;bottom:0;color:#000;padding:1rem .8rem 0 1rem;box-sizing:border-box;display:flex;align-items:center;background:linear-gradient(180deg,rgba(0,0,255,1) 0,rgba(255,0,0,1) 100%)}.story{margin-top:-1rem;font-size:.7rem}.next{width:1.6rem;height:1.6rem;background:radial-gradient(ellipse at center,rgba(255,255,255,1) 0,rgba(255,255,255,1) 5%,rgba(0,0,0,1) 75%,rgba(0,0,0,1) 100%);border-radius:50%;float:right;margin-right:0}.face{position:fixed;background:#000;top:0;left:0;right:0;bottom:0;display:none;align-items:center}.face img{object-fit:contain;width:100%}</style><script>!function(a,b){function c(){var b=f.getBoundingClientRect().width;b/i>540&&(b=540*i);var c=b/10;f.style.fontSize=c+"px",k.rem=a.rem=c}var d,e=a.document,f=e.documentElement,g=e.querySelector('meta[name="viewport"]'),h=e.querySelector('meta[name="flexible"]'),i=0,j=0,k=b.flexible||(b.flexible={});if(g){var l=g.getAttribute("content").match(/initial\-scale=([\d\.]+)/);l&&(j=parseFloat(l[1]),i=parseInt(1/j))}else if(h){var m=h.getAttribute("content");if(m){var n=m.match(/initial\-dpr=([\d\.]+)/),o=m.match(/maximum\-dpr=([\d\.]+)/);n&&(i=parseFloat(n[1]),j=parseFloat((1/i).toFixed(2))),o&&(i=parseFloat(o[1]),j=parseFloat((1/i).toFixed(2)))}}if(!i&&!j){var p=(a.navigator.appVersion.match(/android/gi),a.navigator.appVersion.match(/iphone/gi)),q=a.devicePixelRatio;i=p?q>=3&&(!i||i>=3)?3:q>=2&&(!i||i>=2)?2:1:1,j=1/i}if(f.setAttribute("data-dpr",i),!g)if(g=e.createElement("meta"),g.setAttribute("name","viewport"),g.setAttribute("content","initial-scale="+j+", maximum-scale="+j+", minimum-scale="+j+", user-scalable=no"),f.firstElementChild)f.firstElementChild.appendChild(g);else{var r=e.createElement("div");r.appendChild(g),e.write(r.innerHTML)}a.addEventListener("resize",function(){clearTimeout(d),d=setTimeout(c,300)},!1),a.addEventListener("pageshow",function(a){a.persisted&&(clearTimeout(d),d=setTimeout(c,300))},!1),"complete"===e.readyState?e.body.style.fontSize=12*i+"px":e.addEventListener("DOMContentLoaded",function(){e.body.style.fontSize=12*i+"px"},!1),c(),k.dpr=a.dpr=i,k.refreshRem=c,k.rem2px=function(a){var b=parseFloat(a)*this.rem;return"string"==typeof a&&a.match(/rem$/)&&(b+="px"),b},k.px2rem=function(a){var b=parseFloat(a)/this.rem;return"string"==typeof a&&a.match(/px$/)&&(b+="rem"),b}}(window,window.lib||(window.lib={}));var bodyDom = document.querySelector("body")h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/1.jpg" alt=""><audio id="myAudio" src="/js/1.mp3" type="audio/mpeg"></audio></div></div></div>'$("body").append(h)var story = {    0:"大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······",    1:"一个女同学,因不知受了何种创伤,竟然跳楼自杀,BUT这种自杀方式,跟别人不同。因她是头先落地,从此在女一舍走廊xxxx室,经常听到类似以头撞地的声音.....<br />碰..碰......碰.........<br />从走廊遥远的那一头,慢慢的靠近、慢慢的靠近...............<br />突然...声音停止,不再跳动,原来所停的地方是她生前所住的寝室。",    2:"她就以凄凉的声音说:某某某在吗?她的室友都知道,这是她回了................<br />但没有人敢去开门...这样的情形,一直维持了好几个礼拜。但久而久之,这种情况也就愈来愈少................",    3:"过了不久,暑假到了,随着假期的来临,宿舍的学生也都纷纷的回去了。而这种可怕的事情,却未曾停止..................",    4:"一天晚上,女生宿舍的管理员在清理宿舍(由于大家急着回来,没有好好的整理寝室,所以可怜的管理员,只好一间一间的清理了),清理到这间传闻颇多的放间。心也就毛了起来,「但传言归传言,没有根据的事情.....唉!不要去想它。」管理员心中想着。于是便大胆的开了房门,只感觉阴气阵阵....",    5:"注意一看,原来是北边的窗户没有关上,这时心中便安了起来。于是想上前去关上那个窗户,就在他关上的那一刹那,突然听到'碰'一声。他回头一看,门已经自动关上了。",    6:"这时他的心中,那种不祥的预兆又产生了。就在他旁彷不知所措的时候,这个可怕的声音<br>碰....碰....碰...<br>又从遥远的走廊尽头,由远而近,慢慢的、慢慢的靠了过来「这时不管有没有这个传闻,已是无关紧要了。」他心中想着。",    7:"他非常害怕,但又能如何呢?总不能坐以待弊,于是他想暂时躲在2号床位的书桌底下,等她过去了再出来,这样或许能逃过一劫。",    8:"但人生不如意;十之八九,这句话活生生的证明在他身上。她停在门囗,没有在跳动了,以凄凉的囗气缓缓的说:「你..不..用..再..躲..了..我..已..经..看..到..你..了。」管理员心想说:「我躲在桌下,而你也没有开门,怎么可能看得到我呢?」",    9:"于是管理员,走到门前,弯下身子,将脸贴近地面,想看看那一个女鬼。当他从底下门隙一看,居然看到两个血淋淋的眼睛,以哀怨的眼神看着他說............",    10:"你躲也沒有用的......"}!(function (){    // ------ init page ------    var pDom = document.querySelector(".content")    pDom.style.height = window.innerHeight+"px";    var x = document.getElementById("myAudio");     var index = 0;    // ------ init story ------    var storyDom = document.querySelector(".story p")    storyDom.innerText = story[0]    var nextButton = document.querySelector(".next")    function c(){        if(index==9){        nextButton.style.display="none"        setTimeout(function(){            x.play();             var f =document.querySelector(".face")            f.style.display="flex"            storyDom.innerHTML = story[10]            setTimeout(()=>{                f.style.display="none"            },3000)        },2000)        }else{            nextButton.onclick = function(){            index++            storyDom.innerHTML = story[index]            c()            }        }    }    c()})()</script>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;style&gt;body{padding:0;margin:0}.content{z-index:999999;position:fixed;top:0;left:0;right:0;bottom:0;color:#000;padding:1rem .8rem 0 1rem;box
-      
+      大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······
     
     </summary>
     
@@ -38,41 +35,17 @@
   </entry>
   
   <entry>
-    <title>Hello,A</title>
-    <link href="http://bongiornor.com/2017/11/10/Hello-A/"/>
-    <id>http://bongiornor.com/2017/11/10/Hello-A/</id>
-    <published>2017-11-10T01:13:03.000Z</published>
-    <updated>2019-05-02T15:05:18.438Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Hello-A"><a href="#Hello-A" class="headerlink" title="Hello A"></a>Hello A</h1><h2 id="你好，A-君"><a href="#你好，A-君" class="headerlink" title="你好，A 君"></a>你好，A 君</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Hello-A&quot;&gt;&lt;a href=&quot;#Hello-A&quot; class=&quot;headerlink&quot; title=&quot;Hello A&quot;&gt;&lt;/a&gt;Hello A&lt;/h1&gt;&lt;h2 id=&quot;你好，A-君&quot;&gt;&lt;a href=&quot;#你好，A-君&quot; class=&quot;headerlink&quot; 
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>lagon</title>
+    <title>lagon --1</title>
     <link href="http://bongiornor.com/2017/05/20/lagon-1/"/>
     <id>http://bongiornor.com/2017/05/20/lagon-1/</id>
     <published>2017-05-20T09:09:22.000Z</published>
-    <updated>2019-05-02T15:05:18.438Z</updated>
+    <updated>2019-05-04T08:58:46.275Z</updated>
     
-    <content type="html"><![CDATA[<p>从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。</p><p>“真是糟糕！”，把车停在路边树荫下稍作休息的B拍打着老爷车上的制冷空调，期望着出现奇迹，即使在树荫下，湿热的空气也无法让人觉得好受一点，“空调是坏掉了吗？”</p><p>即使是LAGON的统治下的如今，空调这种东西还是无法突破热力学第二定律这种物理屏障。<br>LAGON是LAboratory Gyrencephalication Of Neuropil的简写代号，人类研制出的人工智能终端，无所不在地运行了二十多年，从运行之日起，他就贪婪地消化着各种资讯，现在已经深入到人类生活的各个角落，人们依赖着他决策、管理和生活。<br>至于为什么起这个强行翻译过来是是神经纤维网络多脑回实验体，看起来像是浮夸拗口名词的堆砌，意义不明莫名其妙，即使是缩写之后也没有明确意义的名字，谁也不知道，大概是硬撑。</p><p>“究竟为什么要逃到这里来呢？”</p><p>B放弃了敲打空调，瘫在车里回想起从三天前开始的旅行，开始玩味起“逃”这个字，自从 LAGON 接管起社会管理者的角色后，人类生活变得和之前任何一个时代都不一样，他比任何人都了解这个社会，比任何人都了解“人”。每个人从出生开始，他的资料就被 LAGON 所收集，身体数据、生活习惯、学习能力、甚至思想变化，他都知道。LAGON 会根据他的资料去规划管理人的生活，早上吃什么、怎么去上班、如何完成工作、怎么交际、怎么发火，怎么恋爱，然后，怎么结婚。</p><p>在 B 看来这是多么的可笑和荒谬，人类的情绪感情真的就已经达到可以被计算和量化管理的地步了吗？实际上，即使再不能接受，这个工作被 LAGON 做的十分出色，在东部地区人们早就开始让人工智能去安排这一切，根据人类一生的资料，LAGON 安排着人类的相遇、恋爱和结婚，人们也相信这是电脑为他们计算得出的最好结果。爱神的工作被接管的几十年里，东部地区的离婚率逐年下降，这几年几乎就是0。即使是短暂地被感性所控制，争吵反目甚至暴力冲突，人们还是会回归 LAGON 的逻辑统治下，毕竟这是计算出的最佳结果，他考虑到了一切，他预测到了两两结合后未来幸福生活的盖然性，他包容了可能出现的情绪波动的异常值，考虑了所有一切后计算得出的最佳结果，没有必要跳出这种最佳安排，所有人都接受了，在 LAGON 给出了他的幸福保障后。</p><p>B 不接受这些，他一直在计划，计划抹掉他在 LAGON 上面的数据，坚持不使用任何智能终端，拒绝暴露自己的任何信息，直到三天前他尝试着去便利店，便利店无法给出他想要的便当套餐后，就决定开始逃亡了，真正逃离LAGON 的统治。他去收了一台还能用的无智能终端的老爷车，向着西边开始了他的旅行，但现在，被热傻了的他似乎后悔了，他现在只能忍受着闷热睡上一觉。</p><p>“静下来，静下来睡一觉吧。。。可恶，早知道应该检查下空调的，可恶！”</p>]]></content>
+    <content type="html"><![CDATA[<p>从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。<br><a id="more"></a><br>“真是糟糕！”，把车停在路边树荫下稍作休息的B拍打着老爷车上的制冷空调，期望着出现奇迹，即使在树荫下，湿热的空气也无法让人觉得好受一点，“空调是坏掉了吗？”</p><p>即使是LAGON的统治下的如今，空调这种东西还是无法突破热力学第二定律这种物理屏障。<br>LAGON是LAboratory Gyrencephalication Of Neuropil的简写代号，人类研制出的人工智能终端，无所不在地运行了二十多年，从运行之日起，他就贪婪地消化着各种资讯，现在已经深入到人类生活的各个角落，人们依赖着他决策、管理和生活。<br>至于为什么起这个强行翻译过来是是神经纤维网络多脑回实验体，看起来像是浮夸拗口名词的堆砌，意义不明莫名其妙，即使是缩写之后也没有明确意义的名字，谁也不知道，大概是硬撑。</p><p>“究竟为什么要逃到这里来呢？”</p><p>B放弃了敲打空调，瘫在车里回想起从三天前开始的旅行，开始玩味起“逃”这个字，自从 LAGON 接管起社会管理者的角色后，人类生活变得和之前任何一个时代都不一样，他比任何人都了解这个社会，比任何人都了解“人”。每个人从出生开始，他的资料就被 LAGON 所收集，身体数据、生活习惯、学习能力、甚至思想变化，他都知道。LAGON 会根据他的资料去规划管理人的生活，早上吃什么、怎么去上班、如何完成工作、怎么交际、怎么发火，怎么恋爱，然后，怎么结婚。</p><p>在 B 看来这是多么的可笑和荒谬，人类的情绪感情真的就已经达到可以被计算和量化管理的地步了吗？实际上，即使再不能接受，这个工作被 LAGON 做的十分出色，在东部地区人们早就开始让人工智能去安排这一切，根据人类一生的资料，LAGON 安排着人类的相遇、恋爱和结婚，人们也相信这是电脑为他们计算得出的最好结果。爱神的工作被接管的几十年里，东部地区的离婚率逐年下降，这几年几乎就是0。即使是短暂地被感性所控制，争吵反目甚至暴力冲突，人们还是会回归 LAGON 的逻辑统治下，毕竟这是计算出的最佳结果，他考虑到了一切，他预测到了两两结合后未来幸福生活的盖然性，他包容了可能出现的情绪波动的异常值，考虑了所有一切后计算得出的最佳结果，没有必要跳出这种最佳安排，所有人都接受了，在 LAGON 给出了他的幸福保障后。</p><p>B 不接受这些，他一直在计划，计划抹掉他在 LAGON 上面的数据，坚持不使用任何智能终端，拒绝暴露自己的任何信息，直到三天前他尝试着去便利店，便利店无法给出他想要的便当套餐后，就决定开始逃亡了，真正逃离LAGON 的统治。他去收了一台还能用的无智能终端的老爷车，向着西边开始了他的旅行，但现在，被热傻了的他似乎后悔了，他现在只能忍受着闷热睡上一觉。</p><p>“静下来，静下来睡一觉吧。。。可恶，早知道应该检查下空调的，可恶！”</p><p>… to be continued</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。&lt;/p&gt;&lt;p&gt;“真是糟糕！”，把车停在路边树荫下稍作休息的B拍打着老爷车上的制冷空调，期望着出现奇迹，即使在树荫下，湿热的空气也无法让人觉得好受一点，
-      
+      从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。
     
     </summary>
     

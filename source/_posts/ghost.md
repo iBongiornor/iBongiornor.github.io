@@ -56,7 +56,7 @@ tags:
 
 
 var bodyDom = document.querySelector("body")
-h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/1.jpg" alt=""><audio id="myAudio" src="/js/1.mp3" type="audio/mpeg"></audio></div></div></div>'
+h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/2.jpg" alt=""><audio id="myAudio" src="/js/2.mp3" type="audio/mpeg"></audio></div></div></div>'
 $("body").append(h)
 
 var story = {
