@@ -6,7 +6,8 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "serve": "hexo server -p 23333"
+    "serve": "hexo server -p 23333",
+		"genpub": "hexo g -d"
   },
   "dependencies": {
     "hexo": "^3.8.0",
