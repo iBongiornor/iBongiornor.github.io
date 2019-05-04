@@ -4,7 +4,10 @@ date: 2019-05-03 18:51:56
 tags:
 ---
 大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······
+
+<script type='text/javascript'  src='/js/howler.min.js'></script>
 <!-- more -->
+
 <style>
  body{
         padding: 0;
@@ -55,8 +58,8 @@ tags:
  !function(a,b){function c(){var b=f.getBoundingClientRect().width;b/i>540&&(b=540*i);var c=b/10;f.style.fontSize=c+"px",k.rem=a.rem=c}var d,e=a.document,f=e.documentElement,g=e.querySelector('meta[name="viewport"]'),h=e.querySelector('meta[name="flexible"]'),i=0,j=0,k=b.flexible||(b.flexible={});if(g){var l=g.getAttribute("content").match(/initial\-scale=([\d\.]+)/);l&&(j=parseFloat(l[1]),i=parseInt(1/j))}else if(h){var m=h.getAttribute("content");if(m){var n=m.match(/initial\-dpr=([\d\.]+)/),o=m.match(/maximum\-dpr=([\d\.]+)/);n&&(i=parseFloat(n[1]),j=parseFloat((1/i).toFixed(2))),o&&(i=parseFloat(o[1]),j=parseFloat((1/i).toFixed(2)))}}if(!i&&!j){var p=(a.navigator.appVersion.match(/android/gi),a.navigator.appVersion.match(/iphone/gi)),q=a.devicePixelRatio;i=p?q>=3&&(!i||i>=3)?3:q>=2&&(!i||i>=2)?2:1:1,j=1/i}if(f.setAttribute("data-dpr",i),!g)if(g=e.createElement("meta"),g.setAttribute("name","viewport"),g.setAttribute("content","initial-scale="+j+", maximum-scale="+j+", minimum-scale="+j+", user-scalable=no"),f.firstElementChild)f.firstElementChild.appendChild(g);else{var r=e.createElement("div");r.appendChild(g),e.write(r.innerHTML)}a.addEventListener("resize",function(){clearTimeout(d),d=setTimeout(c,300)},!1),a.addEventListener("pageshow",function(a){a.persisted&&(clearTimeout(d),d=setTimeout(c,300))},!1),"complete"===e.readyState?e.body.style.fontSize=12*i+"px":e.addEventListener("DOMContentLoaded",function(){e.body.style.fontSize=12*i+"px"},!1),c(),k.dpr=a.dpr=i,k.refreshRem=c,k.rem2px=function(a){var b=parseFloat(a)*this.rem;return"string"==typeof a&&a.match(/rem$/)&&(b+="px"),b},k.px2rem=function(a){var b=parseFloat(a)/this.rem;return"string"==typeof a&&a.match(/px$/)&&(b+="rem"),b}}(window,window.lib||(window.lib={}));
 
 
-var bodyDom = document.querySelector("body")
-h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/2.jpg" alt=""><audio id="myAudio" src="/js/2.mp3" type="audio/mpeg"></audio></div></div></div>'
+var bodyDom = document.querySelector("body");
+var h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/2.jpg" alt="" /></div></div></div>'
 $("body").append(h)
 
 var story = {
@@ -77,8 +80,10 @@ var story = {
     // ------ init page ------
     var pDom = document.querySelector(".content")
     pDom.style.height = window.innerHeight+"px";
-    var x = document.getElementById("myAudio"); 
-
+//    var x = document.getElementById("myAudio"); 
+   var sound = new Howl({
+      src: ['/js/2.mp3']
+    });
     var index = 0;
     // ------ init story ------
     var storyDom = document.querySelector(".story p")
@@ -88,7 +93,7 @@ var story = {
         if(index==9){
         nextButton.style.display="none"
         setTimeout(function(){
-            x.play(); 
+            sound.play(); 
 
             var f =document.querySelector(".face")
             f.style.display="flex"
