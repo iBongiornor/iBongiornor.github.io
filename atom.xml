@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bongiornor</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bongiornor.com/"/>
+  <updated>2019-05-18T19:03:30.062Z</updated>
+  <id>http://bongiornor.com/</id>
+  
+  <author>
+    <name>Bongiornor</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巴扎黑</title>
+    <link href="http://bongiornor.com/2019/05/03/ghost/"/>
+    <id>http://bongiornor.com/2019/05/03/ghost/</id>
+    <published>2019-05-03T10:51:56.000Z</published>
+    <updated>2019-05-18T19:03:30.062Z</updated>
+    
+    <content type="html"><![CDATA[<p>大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······</p><script type="text/javascript" src="/js/howler.min.js"></script><a id="more"></a><style>body{padding:0;margin:0}.content{z-index:999999;position:fixed;top:0;left:0;right:0;bottom:0;color:#000;padding:1rem .8rem 0 1rem;box-sizing:border-box;display:flex;align-items:center;background:linear-gradient(180deg,rgba(0,0,255,1) 0,rgba(255,0,0,1) 100%)}.story{margin-top:-1rem;font-size:.7rem}.next{width:1.6rem;height:1.6rem;background:radial-gradient(ellipse at center,rgba(255,255,255,1) 0,rgba(255,255,255,1) 5%,rgba(0,0,0,1) 75%,rgba(0,0,0,1) 100%);border-radius:50%;float:right;margin-right:0}.face{position:fixed;background:#000;top:0;left:0;right:0;bottom:0;display:none;align-items:center}.face img{object-fit:contain;width:100%}</style><script>!function(a,b){function c(){var b=f.getBoundingClientRect().width;b/i>540&&(b=540*i);var c=b/10;f.style.fontSize=c+"px",k.rem=a.rem=c}var d,e=a.document,f=e.documentElement,g=e.querySelector('meta[name="viewport"]'),h=e.querySelector('meta[name="flexible"]'),i=0,j=0,k=b.flexible||(b.flexible={});if(g){var l=g.getAttribute("content").match(/initial\-scale=([\d\.]+)/);l&&(j=parseFloat(l[1]),i=parseInt(1/j))}else if(h){var m=h.getAttribute("content");if(m){var n=m.match(/initial\-dpr=([\d\.]+)/),o=m.match(/maximum\-dpr=([\d\.]+)/);n&&(i=parseFloat(n[1]),j=parseFloat((1/i).toFixed(2))),o&&(i=parseFloat(o[1]),j=parseFloat((1/i).toFixed(2)))}}if(!i&&!j){var p=(a.navigator.appVersion.match(/android/gi),a.navigator.appVersion.match(/iphone/gi)),q=a.devicePixelRatio;i=p?q>=3&&(!i||i>=3)?3:q>=2&&(!i||i>=2)?2:1:1,j=1/i}if(f.setAttribute("data-dpr",i),!g)if(g=e.createElement("meta"),g.setAttribute("name","viewport"),g.setAttribute("content","initial-scale="+j+", maximum-scale="+j+", minimum-scale="+j+", user-scalable=no"),f.firstElementChild)f.firstElementChild.appendChild(g);else{var r=e.createElement("div");r.appendChild(g),e.write(r.innerHTML)}a.addEventListener("resize",function(){clearTimeout(d),d=setTimeout(c,300)},!1),a.addEventListener("pageshow",function(a){a.persisted&&(clearTimeout(d),d=setTimeout(c,300))},!1),"complete"===e.readyState?e.body.style.fontSize=12*i+"px":e.addEventListener("DOMContentLoaded",function(){e.body.style.fontSize=12*i+"px"},!1),c(),k.dpr=a.dpr=i,k.refreshRem=c,k.rem2px=function(a){var b=parseFloat(a)*this.rem;return"string"==typeof a&&a.match(/rem$/)&&(b+="px"),b},k.px2rem=function(a){var b=parseFloat(a)/this.rem;return"string"==typeof a&&a.match(/px$/)&&(b+="rem"),b}}(window,window.lib||(window.lib={}));var bodyDom = document.querySelector("body");var h =  '   <div class="content"><div class="story">             <p></p> <div class="next"></div><div class="face"><img src="/js/2.jpg" alt="" /></div></div></div>'$("body").append(h)var story = {    0:"大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······",    1:"一个女同学,因不知受了何种创伤,竟然跳楼自杀,BUT这种自杀方式,跟别人不同。因她是头先落地,从此在女一舍走廊xxxx室,经常听到类似以头撞地的声音.....<br />碰..碰......碰.........<br />从走廊遥远的那一头,慢慢的靠近、慢慢的靠近...............<br />突然...声音停止,不再跳动,原来所停的地方是她生前所住的寝室。",    2:"她就以凄凉的声音说:某某某在吗?她的室友都知道,这是她回了................<br />但没有人敢去开门...这样的情形,一直维持了好几个礼拜。但久而久之,这种情况也就愈来愈少................",    3:"过了不久,暑假到了,随着假期的来临,宿舍的学生也都纷纷的回去了。而这种可怕的事情,却未曾停止..................",    4:"一天晚上,女生宿舍的管理员在清理宿舍(由于大家急着回来,没有好好的整理寝室,所以可怜的管理员,只好一间一间的清理了),清理到这间传闻颇多的放间。心也就毛了起来,「但传言归传言,没有根据的事情.....唉!不要去想它。」管理员心中想着。于是便大胆的开了房门,只感觉阴气阵阵....",    5:"注意一看,原来是北边的窗户没有关上,这时心中便安了起来。于是想上前去关上那个窗户,就在他关上的那一刹那,突然听到'碰'一声。他回头一看,门已经自动关上了。",    6:"这时他的心中,那种不祥的预兆又产生了。就在他旁彷不知所措的时候,这个可怕的声音<br>碰....碰....碰...<br>又从遥远的走廊尽头,由远而近,慢慢的、慢慢的靠了过来「这时不管有没有这个传闻,已是无关紧要了。」他心中想着。",    7:"他非常害怕,但又能如何呢?总不能坐以待弊,于是他想暂时躲在2号床位的书桌底下,等她过去了再出来,这样或许能逃过一劫。",    8:"但人生不如意;十之八九,这句话活生生的证明在他身上。她停在门囗,没有在跳动了,以凄凉的囗气缓缓的说:「你..不..用..再..躲..了..我..已..经..看..到..你..了。」管理员心想说:「我躲在桌下,而你也没有开门,怎么可能看得到我呢?」",    9:"于是管理员,走到门前,弯下身子,将脸贴近地面,想看看那一个女鬼。当他从底下门隙一看,居然看到两个血淋淋的眼睛,以哀怨的眼神看着他說............",    10:"你躲也沒有用的......"}!(function (){    // ------ init page ------    var pDom = document.querySelector(".content")    pDom.style.height = window.innerHeight+"px";//    var x = document.getElementById("myAudio");    var sound = new Howl({      src: ['/js/2.mp3']    });    var index = 0;    // ------ init story ------    var storyDom = document.querySelector(".story p")    storyDom.innerText = story[0]    var nextButton = document.querySelector(".next")    function c(){        if(index==9){        nextButton.style.display="none"        setTimeout(function(){            sound.play();             var f =document.querySelector(".face")            f.style.display="flex"            storyDom.innerHTML = story[10]            setTimeout(()=>{                f.style.display="none"            },3000)        },2000)        }else{            nextButton.onclick = function(){            index++            storyDom.innerHTML = story[index]            c()            }        }    }    c()})()</script>]]></content>
+    
+    <summary type="html">
+    
+      大约在90年代，在某所学校的女生宿舍，曾发生过这样一段故事······
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lagon --1</title>
+    <link href="http://bongiornor.com/2017/05/20/lagon-1/"/>
+    <id>http://bongiornor.com/2017/05/20/lagon-1/</id>
+    <published>2017-05-20T01:09:22.000Z</published>
+    <updated>2019-05-18T19:03:30.063Z</updated>
+    
+    <content type="html"><![CDATA[<p>从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。<br><a id="more"></a><br>“真是糟糕！”，把车停在路边树荫下稍作休息的B拍打着老爷车上的制冷空调，期望着出现奇迹，即使在树荫下，湿热的空气也无法让人觉得好受一点，“空调是坏掉了吗？”</p><p>即使是LAGON的统治下的如今，空调这种东西还是无法突破热力学第二定律这种物理屏障。<br>LAGON是LAboratory Gyrencephalication Of Neuropil的简写代号，人类研制出的人工智能终端，无所不在地运行了二十多年，从运行之日起，他就贪婪地消化着各种资讯，现在已经深入到人类生活的各个角落，人们依赖着他决策、管理和生活。<br>至于为什么起这个强行翻译过来是是神经纤维网络多脑回实验体，看起来像是浮夸拗口名词的堆砌，意义不明莫名其妙，即使是缩写之后也没有明确意义的名字，谁也不知道，大概是硬撑。</p><p>“究竟为什么要逃到这里来呢？”</p><p>B放弃了敲打空调，瘫在车里回想起从三天前开始的旅行，开始玩味起“逃”这个字，自从 LAGON 接管起社会管理者的角色后，人类生活变得和之前任何一个时代都不一样，他比任何人都了解这个社会，比任何人都了解“人”。每个人从出生开始，他的资料就被 LAGON 所收集，身体数据、生活习惯、学习能力、甚至思想变化，他都知道。LAGON 会根据他的资料去规划管理人的生活，早上吃什么、怎么去上班、如何完成工作、怎么交际、怎么发火，怎么恋爱，然后，怎么结婚。</p><p>在 B 看来这是多么的可笑和荒谬，人类的情绪感情真的就已经达到可以被计算和量化管理的地步了吗？实际上，即使再不能接受，这个工作被 LAGON 做的十分出色，在东部地区人们早就开始让人工智能去安排这一切，根据人类一生的资料，LAGON 安排着人类的相遇、恋爱和结婚，人们也相信这是电脑为他们计算得出的最好结果。爱神的工作被接管的几十年里，东部地区的离婚率逐年下降，这几年几乎就是0。即使是短暂地被感性所控制，争吵反目甚至暴力冲突，人们还是会回归 LAGON 的逻辑统治下，毕竟这是计算出的最佳结果，他考虑到了一切，他预测到了两两结合后未来幸福生活的盖然性，他包容了可能出现的情绪波动的异常值，考虑了所有一切后计算得出的最佳结果，没有必要跳出这种最佳安排，所有人都接受了，在 LAGON 给出了他的幸福保障后。</p><p>B 不接受这些，他一直在计划，计划抹掉他在 LAGON 上面的数据，坚持不使用任何智能终端，拒绝暴露自己的任何信息，直到三天前他尝试着去便利店，便利店无法给出他想要的便当套餐后，就决定开始逃亡了，真正逃离LAGON 的统治。他去收了一台还能用的无智能终端的老爷车，向着西边开始了他的旅行，但现在，被热傻了的他似乎后悔了，他现在只能忍受着闷热睡上一觉。</p><p>“静下来，静下来睡一觉吧。。。可恶，早知道应该检查下空调的，可恶！”</p><p>… to be continued</p>]]></content>
+    
+    <summary type="html">
+    
+      从大陆的东海岸地区，逃到纬度更低的中部地区，似乎并不是一个明智的选择，初夏的湿润燥热的天气伴随着隆隆的汽车噪音让人难以忍受。
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Adieu tristesse</title>
+    <link href="http://bongiornor.com/2017/04/18/Adieu-Tristesse/"/>
+    <id>http://bongiornor.com/2017/04/18/Adieu-Tristesse/</id>
+    <published>2017-04-18T12:45:28.000Z</published>
+    <updated>2018-12-26T14:28:46.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>PHA+6L+Z5q615pel5a2Q5omT5pCF5LqG77yM5Y2B5YiG5oqx5q2J77yM6K+35aSa5L+d6YeN44CCPC9wPjxocj48ZGVsPjxwPuS7iuWkqe+8jDTmnIgxNuWPt++8jOaYr+aIkeefpemBk+S4lueVjOS4iuacieS4quaIkOmdmeaWr+eahOesrDQ35aSp77yM5LuOM+aciDHlj7fkuIrljYjnn6XpgZPmnInov5nkuYjkuKrkurrjgIHkuIvljYjnn6XpgZPov5nkuYjkuKrlkI3lrZfnrpfotbfjgII8L3A+PHA+5LiK5Liq56S85ouc55yf55qE6L+H5b6X5peg5q+U55qE54Gw5pqX77yM546w5Zyo5oiR5Ly85LmO5aW95LqG5LiA54K544CC5Zue6L+H5p2l55yL5YmN5Yeg5aSp5YaZ55qE77yM5Y+R546w5qe954K55aSq5aSa77yM55yf5piv5LiN55+l6YGT5LuO5ZOq6K+06LW344CC5YaZ6L+Z5Liq5piv5oOz5pW055CG5pW055CG6Ieq5bex77yM6L+Y5pyJ77yM5q+V56uf6KaB5ZKM5aW95aW95ZGK5Yir5omN6KGM44CCPC9wPjxwPuacieS6m+S6i+aDheazqOWumuS8muWPkeeUn++8jOacieS6m+S6i+aDheazqOWumuS4jeS8muWPkeeUn++8jOi/mOacieS6m+S6i+aYr+iiq+eLl+eGiuavgeaOieeahOOAgjxicj7miJHkuIDluqboh6rotJ/lnLDorqTkuLrmg4XllYblj6rkuI3ov4fmmK/mmbrllYbnmoTlu7bnu63vvIzlj6ropoHog73mnYPooaHliKnlvIrvvIzku4DkuYjml7blgJnor6XlgZrku4DkuYjkuovmg4XmmK/mmL7ogIzmmJPop4HnmoTjgILnhLbogIzov5nkuIDkuKrlpJrmnIjmnaXvvIzmiJHooqvmiZPlvpfmu6HohLjmmK/ooYDjgILmiJHlr7noh6rlt7HnmoTmg4XllYblrozlhajkuKflpLHkuobkv6Hlv4PvvIznlJroh7PlvIDlp4vmgIDnlpHmiJHnmoTmmbrllYbjgII8YnI+5Lul6Ieq5oiR5Li65Lit5b+D55qE56eN56eN5Li+5Yqo6K6p5pW05Liq5LqL5oOF55yL6LW35p2l5b6I5oCq77yM5L2g5Yeg5LmO5rKh5pyJ5YGa5LuA5LmI77yM6ICM5oiR5oiR5Zyo5LiA6L656aG+5b2x6Ieq5oCc77yM54us6Ieq56We5Lyk77yM6L+Z5a6M5YWo5Y+q5piv5oiR55qE6Ieq5a+86Ieq5ryU44CC5Y+55rCU77yB5oiR5aSn5qaC5piv5L2g6L+Z5omA5pyJ54ix5oWV6ICF6YeM5pyA5Y+v56yR55qE6YKj5LiA5Liq5LqG44CCPC9wPjxwPuWcqOerpeivnemHjO+8jOW9vOW+l+a9mOacgOe7iOi/mOaYr+ayoeacieemu+W8gOawuOaXoOWym++8jOiAjOaIkei/meS4gOS4quWNiuaciOmHjOa/gOi1t+azoua+nOeahOaDhee7quS5n+e7iOWwhui2i+S6juW5s+mdmeOAguacieWPr+iDveS8muaYr+i/meagt++8jOWFreS4quaciOWQjuaIkeS8muW/mOiusOWFs+S6juS9oOeahOiuuOWkmuS6i+aDhe+8jOS4gOW5tOWQjuaIkeS8muS4jeiusOW+l+S9oOeahOWjsOmfs++8jOWGjeWNiuW5tOS5n+iuuOaIkei/nuS9oOeahOagt+WtkOS5n+iusOS4jei1t+adpe+8jOS9huaIkei/mOaYr+S8muiusOW+l+aIkOmdmeaWr++8jOS4gOS4quaIkeW5tuayoeacieingei/h+WHoOmdoueahOS4lueVjOS4iuacgOWPr+eIseeahOWchuiEuOWnkeWomOOAgjwvcD48cD7mlYXkuovkuK3vvIzmr4/lubTmmKXlpKnlvbzlvpfmvZjpg73kvJrph43ov5Tkurrpl7TvvIznnIvnnYDmuKnokoLnu5PlqZrnlJ/lrZDjgIHplb/lpKflj5jogIHvvIzlnKjkuIDml4HlrojmiqTogIXlpbnnmoTlubjnpo/vvIzkuZ/orrjmiJHku6XlkI7mr4/lvZPmg7PotbdBbGljZeeahOaXtuWAme+8jOaIkeS5n+S8muW4jOacm+Wluei/h+W+l+W5uOemj+W/q+S5kOWQp+OAgjwvcD48aHI+PHA+5LuK5aSp77yMNOaciDE05Y+377yM5piv5oiR55+l6YGT5LiW55WM5LiK5pyJ5Liq5oiQ6Z2Z5pav55qE56ysNDXlpKnvvIzku44z5pyIMeWPt+S4iuWNiOefpemBk+aciei/meS5iOS4quS6uuOAgeS4i+WNiOefpemBk+i/meS5iOS4quWQjeWtl+eul+i1t+OAgjwvcD48cD7nhLbogIznjrDlnKjmiJHlhrPlrprkuobvvIzmiJHlho3kuZ/kuI3kvJrlsJ3or5XmjqXop6bkvaDkuobvvIzmiJHmiZPnrpfmiorov5nkuIDkuKrljYrmnIjmnaXnmoTkuovln4votbfmnaXjgII8L3A+PHA+6L+Z5Yeg5aSp6K6p5oiR55eb6Ium55qE5piv77yM5oiR5peg5rOV5b+Y5o6J5L2g5Zyo5oiR6ISR6KKL6YeM55WZ5LiL55qE5bm75b2x44CC5aW956yR55qE5piv77yM5oiR5bCd6K+V6L+H5LiA5Lqb5pa55rOV77yMPGRlbD7nm6/nnYDkvaDlpKfmpoLmmK/pq5jkuK3ml7bku6PpgqPlnIbmu5rmu5rjgIHog5blmJ/lmJ/nmoTlnJ/ph4zlnJ/msJTnmoTnhafniYc8L2RlbD7vvIzluIzmnJvog73mr4Hmjonlr7nkvaDnmoTnvo7lpb3ljbDosaHvvIzkvYbmiJHljbTotornnIvotorpmr7ov4fjgILkvaDor7Tov4fvvIzmiJHlr7nkvaDnmoTorqTnn6Xpg73mmK/oh6rlt7Hlubvmg7Plh7rmnaXnmoTjgILkuI3lrozlhajmmK/jgILkvaDnn6XpgZPlkJfvvIznprvlvIDplb/mspnliY3vvIzmiJHlsI/lv4PlnLDku47mn5DkuKrop5LluqbvvIznl7Tnl7TlnLDnnIvkuobkuInlpKnvvIzov5nlpKfmpoLmnoTmiJDkuobmnIDliJ3lubvmg7PnmoTln7rnoYDvvIzkuIDkuKrlnKjpmYznlJ/njq/looPlsI/lv4Pnv7znv7zjgIHkuKXogoPjgIHkuI3oi5/oqIDnrJHjgIHnm67lhYnmhbXmh5LnmoTlnIbohLjlp5HlqJjjgILmiJHmgKXkuo7mg7Pnn6XpgZPmm7TlpJrlhbPkuo7kvaDnmoTkuovmg4XvvIzkuo7mmK/lsZXlvIDkuobosIPmn6XvvIzpmo/nnYDmr4/kuIDmrKHnmoTosIPmn6Xnu5PmnZ/vvIzov5nkuKrlubvmg7Ppg73mm7TliqDlhbfosaHljJbvvIzigJzov5nkuKrlp5HlqJjlpb3mnInotqPvvIHigJ0g4oCc6L+Z5Liq5aeR5aiY5aSq5Y+v54ix5LqG4oCd77yM5oiR5r+A5Yqo5p6B5LqG77yM5oiR5biM5pyb5q+P5aSp6YO96IO96IGU57O75Yiw5L2g44CC5b285b6X5r2Y56ys5LiA5qyh5biM5pyb6ZW/5aSn44CCPC9wPjxwPuiDveWSjOS9oOWPluW+l+iBlOezu+iuqeaIkeWDj+WPquW/q+S5kOeahOWwj+m4n+S4gOagt++8jOS9oOeahOavj+S4quWbnuWkjemDveiDveiuqeaIkea/gOWKqOS4jeW3suOAgemrmOWFtOW+l+S4iuWkqe+8jOS9oOeahOWbnuWkjeaIkOS6huaIkeavj+WkqeaXqei1t+aXtueahOWKqOWKm+OAgeW3peS9nOWQjueahOaFsOiXiSDvvIzmiJHov6vkuI3lj4rlvoXlnLDluIzmnJvlkozkvaDliIbkuqvmiJHpgYfliLDnmoTmnInotqPnmoTkuovmg4XlkozmgrLkvKTnmoTkuovmg4XvvIzmiJHmnJ/lvoXnnYDlj6/ku6XlkozkvaDosIjorrrmm7TlpJrnmoTor53popjvvIzmnInotqPnmoTkuabjgIHlpb3nnIvnmoTnlLXlvbHvvIzmiJHkuZ/mg7PlkozkvaDosIjorrrlkajmnbDkvKbvvIzmiJHlpJrmg7PlkYror4nkvaDlj7bmg6Dnvo4o5ZCrKeS5i+WJjeeahOatjOaIkeavj+S4gOmmlumDveS8muWUseWViu+8gTxicj7nhLbogIzvvIznqoHnhLblnLDmiJHlvIDlp4vmgJXkuobvvIzmiJHlrrPmgJXmiJHor7TlvpflpKrlpJrjgIHmlrnlvI/lpKrnoazjgIHlpKrpopHnuYHlpKrliLvmhI/orqnkvaDlv4PnlJ/ljozmgbbvvIzmiJHlrrPmgJXlm6DkuLrmiJHlr7nkvaDogIzoqIDln7rmnKzkuIrmmK/kuKrpmYznlJ/kurrvvIzmiYDkvZzmiYDkuLrlpKrov4fmlL7ogobogIzmmL7lvpfkuI3lpKrlkIjpgILvvIzmiJHlrrPmgJXkvaDorqjljozmiJHvvIHmiJHmgJXlvpfkuI3mlaLlho3or7Tku4DkuYjkuobvvIzmiJHmgJXlvpfkuI3nn6XpgZPor7Tku4DkuYjjgII8YnI+5oiR55qE56Gu5pCe56C45LqG77yM5L2g5aW95Yeg5qyh5ZGK6K+J5oiR5bqU6K+l5YGc5LiL77yM57uZ5oiR5Y+R5Y2h77yM5oiR6YO96YCJ5oup5peg6KeG77yM5Lul6Ieq5oiR5Li65Lit5b+D55qE5L2O5oOF5ZWG5YGa5rOV5b275bqV5q+B5LqG5LiA5YiH77yM5oiR55+l6YGT5oiR5LiN5bqU6K+l5Zyo6L+Z5qC35LqG77yM5LiW5LiK5oC75pyJ5Lqb5LqL5oOF5rOo5a6a5LiN5Lya5Y+R55Sf77yM5LiN6K+l5Y+R55Sf55qE5YaN5oCO5LmI5YGa5Lmf5LiN5Lya5Y+R55Sf77yM5oiR5LiL5LqG5Yaz5b+D5LiN5YaN6IGU57O75L2g44CC5LuO6L+Z5Lul5ZCO77yM5oiR5piv5pWw552A5pel5a2Q6L+H55qE44CC5oiR5q+P5aSp6YO95Zyo54Om6LqB54Sm6JmR5Lit5bqm6L+H77yM5oiR5YGH6KOF5b6I5b+Z77yM5Y675Yqg54+t5omT5Y+R5pe26Ze077yM5LiA5Liq5Lq65Y6755yL5LqG5pS75aOz5py65Yqo6Zif77yM5oiR5Yqq5Yqb5Zyw5oOz5b+Y5o6J5LiA5Lqb5LuA5LmI5LqL5oOF77yM5L2G5oiR5Y+R546w5oiR5YGa5LiN5Yiw77yM5oiR5Ly85LmO5a+55L2g5Lqn55Sf5LqG5L6d6LWW77yM5q+P5aSp5Yiw54K56YO95o6P5Ye65omL5py65Y+R5ZGG44CC6Ieq5LuO5ZCs5Yiw5L2g55qE55yf5a6e55qE5aOw6Z+z5ZCO77yM5oiR5pu05Yqg5rKJ5rq65YW25Lit77yM5L2g6YKj5Y+l5bim552A5rmW5Y2X5Y+j6Z+z55qE5Y+v54ix55qE4oCc5byA5LuA5LmI546p56yR5ZWK4oCd5LiA55u05Zue5ZON5Zyo6ISR5Lit77yM5oOz5ZKS6K+t5LiA5qC35Zeh5Zeh5L2c5ZON44CC5oiR5by65b+N552A6Ieq5bex5LiN5Y675oOz5L2g77yM55Sa6Iez5Yig5o6J5LqG5omA5pyJ55qE5b6u5L+h5a+56K+d77yM5omT566X5raI6Zmk5omA5pyJ5YWz5LqO5L2g55qE55eV6L+544CCPGJyPuayoeWHuuaBr+eahOaIkeacgOWQjui/mOaYr+e7meS9oOWPkeS6huW+ruS/oe+8jOaIkeeliOelt+edgOS9oOWPr+S7peWbnuaIkeWTquaAleaYr+S4gOWPpeWNiuWPpe+8jOS9oOWWhOiJr+eahOWbnuW6lOiuqeaIkeeojeW+ruWuieW/g+S4gOeCueeahOWQjOaXtu+8jOWNtOS9v+aDheWGteWPmOW+l+abtOezn+OAgjxicj7miJHop4nlvpfmiJHlho3kuZ/msqHlj6/og73op4HliLDkvaDkuobvvIzogIzmiJHlho3kuZ/ml6Dms5Xlv5jorrDkvaDvvIzmiJHlkI7mgpTmiJHmiYDlgZrnmoTpgqPkupvlj6/nrJHnmoTkuovmg4XvvIzlpoLmnpzmiJHkuI3mmK/pgqPkuYjnm7TmjqXvvIzkuZ/orrjmiJHov5jlj6/ku6XlkozkvaDmnInmm7TlpJrnmoTkuqTmtYHvvIzkuZ/orrjmiJHopoHnmoTkuZ/ku4Xku4XlsLHov5nkupvogIzlt7LvvIzmiJHlpLHljrvkuobmiYDmnInlgZznlZnlnKjov5nkuKrpmYznlJ/ln47luILnmoTmhI/kuYnjgII8YnI+5oiR6ZK76L+b5LqG54mb6KeS5bCW77yM6Zm35YWl5LqG5peg6ZmQ55qE6Ieq6LSj77yM5oiR5q+P5aSp6YO95YOP5Lii5LqG6a2C5LiA5qC377yM6ISR6KKL5LiA5pem5pS+56m65bCx5Lya5Y675oOz6L+Z5Lqb5LqL5oOF77yM5Y+R5ZGG77yM55Sa6Iez5oOz5ZOt5Ye65p2l77yM5Yir5Lq65b2i5a655b+D55eb5YOP5LiH566t6ZK75b+D77yM5oiR6KeJ5b6X5YOP5piv5aKo5rC05oWi5oWi5riX5YWl5LiA6Iis77yM5LuO5LiA54K55byA5aeL77yM5oWi5oWi5rW46YCP77yM55eb6Ium55qE5oSf6KeJ6YCQ5riQ5ZCe5Zms5pW05Liq5b+D6ISP77yM55u05Yiw56m66Jma5peg5Yqb44CC5LiA5byA5aeL77yM5oiR5LiN5oOz5ZKM5Lu75L2V5Lq66K+06K+d77yM5YWF5ruh5LqG6LSf6Z2i55qE5oOF57uq77yM5oiR6KeJ5b6X5Y6L5Yqb5b6I5aSn77yM5aS055qu5Y+R6bq777yM6ISR5a2Q6YO96KaB54K45o6J5LqG77yM5oiR55+l6YGT5oiR5LiN6IO95YaN6L+Z5qC377yM5LiN54S25oiR5bCx55yf55qE6KaB5Z6u5LqG77yM5oiR6Ieq6KiA6Ieq6K+t6K6p6Ieq5bex5LiN5Y675oOz6YKj5Lqb77yM6K+0552A5Z6D5Zy+6K+d6L2s56e75rOo5oSP5Yqb77yM5L2G6L+Z5bm25LiN6IO95YeP6L275oiR5LiA5LiB54K555qE55eb6Ium44CCPGJyPuaIkeS7juadpeWvuemCo+S6m+aDheaEn+WSqOivoueahOiKguebruS4jeWxkeS4gOmhvu+8jOaIkeWYsueskemCo+S6m+aXoOeXheWRu+WQn+OAgee8uuS5j+eQhuaZuueahOiHquWvu+eDpuaBvOOAguWPr+aIkeeOsOWcqOi/nuS7luS7rOS5n+S4jeWmguOAguaIkeS7peS4uuaIkeWPr+S7peW+iOeQhuaZuu+8jOWOu+WBmuato+ehrueahOS6i+aDhe+8jOS9huaIkeeOsOWcqOWDj+eDguazpeS4gOiIrO+8jOWujOWFqOWkseWOu+S6huebruagh+OAgjwvcD48cD7miJHkuI3kvJrlho3lsJ3or5XmjqXop6bkvaDkuobvvIzkvaDmnpzmlq3ogIzmraPnoa7nmoTkuI3kuojnkIbnnazvvIzorqnmiJHnl5voi6bkuI3loKrvvIzmiJHmg7PmiJHlho3kuZ/ml6Dms5Xmib/orqTov5nmoLfnmoTnl5voi6bvvIzmiJHlho3kuZ/kuI3kvJrlgZrlh7rorqnkvaDpmr7loKrkuLrpmr7nmoTkuovkuobjgII8YnI+5oiR546w5Zyo5Y+q5oOz5ZKM5L2g5oiQ5Li65pyL5Y+L77yM5ZOq5oCV5piv572R57uc5LiK5LiA5Liq6Jma5ouf55qE56ym5Y+377yM5oiR5oOz55+l6YGT5L2g5pyA6L+R6L+H5b6X5aW95LiN5aW977yM5Y675ZOq6YeM546p5LqG77yM6YGH5Yiw5LqG5oCO5LmI6auY5YW055qE5LqL5oOF77yM6YGH5Yiw5LqG5oCO5qC36Zq+6L+H55qE5LqL5oOF77yM5oiR546w5Zyo5pyA5oCV55qE5piv5aSx5Y675L2g5omA5pyJ55qE5raI5oGv44CC5oiR6Z2g77yM6L+Z5Y+I5piv5LiA5Liq5LiN5oGw5b2T55qE5aWi5pyb77yBPC9wPjxwPuaIkeS8muS4gOebtOWFs+azqOS9oO+8jOeUmuiHs+elneemj+S9oO+8jOS9huS4jeS8muWGjeWwneivleaOpeinpuS9oOOAgjwvcD48cD7or7fkuI3opoHlv5jorrDmiJHjgII8L3A+PC9kZWw+</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;PHA+6L+Z5q615pel5a2Q5omT5pCF5LqG77yM5Y2B5YiG5oqx5q2J77yM6K+35aSa5L+d6YeN44CCPC9wPjxocj48ZGVsPjxwPuS7iuWkqe+8jDTmnIgxNuWPt++8jOaYr+aIkeefp
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>雨ニモマケズ</title>
+    <link href="http://bongiornor.com/2017/02/18/ame/"/>
+    <id>http://bongiornor.com/2017/02/18/ame/</id>
+    <published>2017-02-17T16:19:31.000Z</published>
+    <updated>2019-05-19T04:36:26.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>雨ニモマケズ<br>風ニモマケズ<br><a id="more"></a></p><p>雪ニモ夏ノ暑サニモマケヌ<br>丈夫ナカラダヲモチ<br>慾ハナク<br>決シテ瞋ラズ<br>イツモシヅカニワラッテヰル<br>一日ニ玄米四合ト<br>味噌ト少シノ野菜ヲタベ<br>アラユルコトヲ<br>ジブンヲカンジョウニ入レズニ<br>ヨクミキキシワカリ<br>ソシテワスレズ<br>野原ノ松ノ林ノ蔭ノ<br>小サナ萓ブキノ小屋ニヰテ</p><p>東ニ病気ノコドモアレバ<br>行ッテ看病シテヤリ<br>西ニツカレタ母アレバ<br>行ッテソノ稲ノ朿ヲ負ヒ<br>南ニ死ニサウナ人アレバ<br>行ッテコハガラナクテモイヽトイヒ<br>北ニケンクヮヤソショウガアレバ</p><p>ツマラナイカラヤメロトイヒ<br>ヒドリノトキハナミダヲナガシ<br>サムサノナツハオロオロアルキ<br>ミンナニデクノボートヨバレ<br>ホメラレモセズ<br>クニモサレズ<br>サウイフモノニ<br>ワタシハナリタイ</p><p>雨にも負けず<br>風にも負けず<br>雪にも夏の暑さにも負けぬ<br>丈夫な体を持ち<br>慾はなく 決して瞋らず<br>いつも静かに笑っている<br>一日に玄米四合と<br>味噌と少しの野菜を食べ<br>あらゆることを<br>自分を勘定に入れずに<br>よく見聞きし分かり<br>そして忘れず<br>野原の松の林の蔭の<br>小さな萱ぶきの小屋にいて<br>東に病気の子供あれば<br>行って看病してやり<br>西に疲れた母あれば<br>行ってその稲の束を負い<br>南に死にそうな人あれば<br>行って怖がらなくてもいゝと言い<br>北に喧嘩や訴訟があれば<br>つまらないから止めろと言い<br>一人のときは涙を流し<br>寒さの夏はオロオロ歩き<br>みんなにデクノ坊と呼ばれ<br>褒められもせず<br>苦にもされず<br>そういう者に<br>私はなりたい</p>]]></content>
+    
+    <summary type="html">
+    
+      雨ニモマケズ
+風ニモマケズ
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
