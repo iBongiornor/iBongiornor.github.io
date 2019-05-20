@@ -18,19 +18,78 @@ html, button, input, select, textarea,
     font-family: "PingFangSC-Regular", Helvetica, "Helvetica Neue", "Segoe UI",
                  "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif;
 }
+a[title='站长统计'] {
+    visibility: hidden;
+}
+
+
+/*
+Cube transition css
+
+*/
+body{
+    height: 100vh;
+    position: relative;
+    perspective: 2000vw;
+    perspective-origin: bottom left;
+
+
+    #container{
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        transform-style: preserve-3d;
+        transition: transform 0.5s;
+    }
+
+    .body_container,.chat_app {
+        width: 100vw;
+        height: 100vh;
+        display: block;
+        position: absolute;
+    }
+    .body_container{
+        background-color: #fdfdfd;
+
+        transform: translateZ(48vw);
+    }
+
+    .chat_app {
+        background-color: #01579f;
+        transform: rotateY(90deg) translateZ(48vw);
+    }
+
+    #container.show-front {
+        transform: translateZ(-48vw);
+    }
+    #container.show-right {
+        transform: translateZ(-48vw) rotateY(-90deg);
+    }
+
+    .chat-iframe{
+
+    width: 100%;
+    height: 100%;
+    border: none;
+    }
+}
+
+
 
 body {
     background-color: #FFF;
     color: #444;
-    font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-size: 14px;
+    font-size: 0;
+   
 }
 .body_container {
     padding: 0 60px;
     max-width: 1150px;
     margin: 0 auto;
+    font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
 }
 .content_container {
     padding-right: 50px;

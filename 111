@@ -1,0 +1,9 @@
+
+> hexo-site@0.0.0 serve /Users/bob/iBongiornor.github.io
+> hexo server -p 23333
+
+INFO  [hexo-math] Using engine 'mathjax'
+INFO  update Optimize HTML: /Users/bob/iBongiornor.github.io/node_modules/hexo-math/asset/inject.swig [ 11.56% saved]
+INFO  Bye!
+INFO  Good bye
+INFO  Start processing
