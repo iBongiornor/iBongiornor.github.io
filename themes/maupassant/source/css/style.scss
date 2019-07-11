@@ -1897,5 +1897,11 @@ body{
     height: 100%;
     border: none;
     }
+
+    a .fa.fa-user {
+        background: radial-gradient(ellipse farthest-corner at 50% 0, #DBF5F1 0%, #9BE4D8 100%);
+        border-radius: 6px;
+        padding: 6px 8px;
+    }
 }
 
